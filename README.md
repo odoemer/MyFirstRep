@@ -4,7 +4,8 @@ Just some information about my first project.
 ```
 if (this is code) {
   what comes next;
-  } else {
+  } 
+  else {
   this would really be the end;
   }
 */ and some comment
