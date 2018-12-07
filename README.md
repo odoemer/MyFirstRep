@@ -8,5 +8,5 @@ if (this is code) {
   else {
   this would really be the end;
   }
-*/ and some comment
-  ```
+```
+Oh well!
